@@ -22,7 +22,7 @@ You may see some non-directly related topics such as `Computer Graphics`, `Machi
 
 # 📝 Content
 
-- [About](#about)
+- [About](#✍️-about)
 - [Amazing Materials](Lists/AmazingMaterials.md)
 - [SwiftUI](Lists/SwiftUI.md)
 - [DocC](Lists/DocC.md)
